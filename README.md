@@ -1,6 +1,8 @@
 # Siliconizing-Robot
 
-Konveyor üzerinden mermer geldiğinde sensör görür ve konveyör yavaşlar. Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
+Konveyor üzerinden mermer geldiğinde sensör görür ve konveyör yavaşlar. 
+
+Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 --> Birinci klasörde silikonlama robotunun PLC ve HMI yazılımı bulunur.
 
@@ -10,7 +12,17 @@ Konveyor üzerinden mermer geldiğinde sensör görür ve konveyör yavaşlar. A
 
 --> Dördüncü klasörde silikonlama robotunun projesinin 2 fotoğrafı bulunur.
 
-When the marble comes on the conveyor belt,sensor sees and conveyor belt gets slower. Then until sensor does not see marble which comes on the conveyor belt,marble is siliconized.
+!-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
+
+!-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir.
+
+
+******************************************************************************************************************
+
+
+When the marble comes on the conveyor belt,sensor sees and conveyor belt gets slower. T
+
+hen until sensor does not see marble which comes on the conveyor belt,marble is siliconized.
 
 --> First folder contains PLC and HMI Software of Siliconizing Robot.
 
@@ -19,3 +31,7 @@ When the marble comes on the conveyor belt,sensor sees and conveyor belt gets sl
 --> Third folder contains five photos of PLC and HMI Software of Siliconizing Robot for project overview.
 
 --> Fourth folder contains two photos of Siliconizing Robot Project.
+
+!-> To be able to run PLC Software "Control FPWIN Pro 7" software should be downloaded.
+
+!-> To be able to run HMI Software "EasyAccess" software should be downloaded.
