@@ -10,7 +10,7 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 --> Üçüncü klasörde projeye hızlı bakış için silikonlama robotunun PLC ve HMI yazılımının 5 fotoğrafı bulunur.
 
---> Dördüncü klasörde silikonlama robotunun projesinin 2 fotoğrafı bulunur
+--> Dördüncü klasörde silikonlama robotunun projesinin 2 fotoğrafı bulunur.
 
 !-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
 
