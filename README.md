@@ -16,6 +16,6 @@ When the marble comes on the conveyor belt,sensor sees and conveyor belt gets sl
 
 --> Second folder contains working video of Siliconizing Robot.It needs to be downloaded.(2.5 MB and 20 sec).
 
---> Third folder contains five photos of PLC Software of Siliconizing Robot for fast overview.
+--> Third folder contains five photos of PLC Software of Siliconizing Robot for project overview.
 
 --> Fourth folder contains two photos of Siliconizing Robot Project.
