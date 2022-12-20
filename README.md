@@ -6,7 +6,7 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 --> Birinci klasörde silikonlama robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde silikonlama robotunun çalışma videosu bulunur.Video indirilmelidir.(2.5 MB ve 20 sn).
+--> İkinci klasörde silikonlama robotunun çalışma videosu bulunur.Video indirilmelidir. (2.5 MB ve 20 sn).
 
 --> Üçüncü klasörde projeye hızlı bakış için silikonlama robotunun PLC ve HMI yazılımının 5 fotoğrafı bulunur.
 
@@ -26,7 +26,7 @@ Then until sensor does not see marble which comes on the conveyor belt,marble is
 
 --> First folder contains PLC and HMI Software of Siliconizing Robot.
 
---> Second folder contains working video of Siliconizing Robot.It needs to be downloaded.(2.5 MB and 20 sec).
+--> Second folder contains working video of Siliconizing Robot.It needs to be downloaded. (2.5 MB and 20 sec).
 
 --> Third folder contains five photos of PLC and HMI Software of Siliconizing Robot for project overview.
 
