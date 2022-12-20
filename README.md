@@ -20,9 +20,9 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 ******************************************************************************************************************
 
 
-When the marble comes on the conveyor belt,sensor sees and conveyor belt gets slower. T
+When the marble comes on the conveyor belt,sensor sees and conveyor belt gets slower. 
 
-hen until sensor does not see marble which comes on the conveyor belt,marble is siliconized.
+Then until sensor does not see marble which comes on the conveyor belt,marble is siliconized.
 
 --> First folder contains PLC and HMI Software of Siliconizing Robot.
 
