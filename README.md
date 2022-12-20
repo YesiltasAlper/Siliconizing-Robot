@@ -6,7 +6,7 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 --> Birinci klasörde silikonlama robotunun PLC ve HMI yazılımı bulunur.
 
---> İkinci klasörde silikonlama robotunun gerçek çalışma videosu bulunur.Video indirilmelidir.(2.5 MB ve 20 sn).
+--> İkinci klasörde silikonlama robotunun çalışma videosu bulunur.Video indirilmelidir.(2.5 MB ve 20 sn).
 
 --> Üçüncü klasörde projeye hızlı bakış için silikonlama robotunun PLC ve HMI yazılımının 5 fotoğrafı bulunur.
 
