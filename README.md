@@ -6,7 +6,7 @@ Konveyor üzerinden mermer geldiğinde sensör görür ve konveyör yavaşlar. A
 
 --> İkinci klasörde silikonlama robotunun gerçek çalışma videosu bulunur.Video indirilmelidir.(2.5 MB ve 20 sn).
 
---> Üçüncü klasörde projeye hızlı bakış için silikonlama robotunun PLC yazılımının 5 fotoğrafı bulunur.
+--> Üçüncü klasörde projeye hızlı bakış için silikonlama robotunun PLC ve HMI yazılımının 5 fotoğrafı bulunur.
 
 --> Dördüncü klasörde silikonlama robotunun projesinin 2 fotoğrafı bulunur.
 
@@ -16,6 +16,6 @@ When the marble comes on the conveyor belt,sensor sees and conveyor belt gets sl
 
 --> Second folder contains working video of Siliconizing Robot.It needs to be downloaded.(2.5 MB and 20 sec).
 
---> Third folder contains five photos of PLC Software of Siliconizing Robot for project overview.
+--> Third folder contains five photos of PLC and HMI Software of Siliconizing Robot for project overview.
 
 --> Fourth folder contains two photos of Siliconizing Robot Project.
