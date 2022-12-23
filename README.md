@@ -14,7 +14,7 @@ Ardından sensör görmeyene dek mermere silikonlama işlemi yapılır.
 
 !-> PLC yazılımını çalıştırabilmek için "Control FPWIN Pro 7" yazılımı indirilmelidir.
 
-!-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir.
+!-> HMI yazılımını çalıştırabilmek için "EasyAccess" yazılımı indirilmelidir
 
 
 ******************************************************************************************************************
